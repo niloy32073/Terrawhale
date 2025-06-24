@@ -1,0 +1,80 @@
+.title {
+    position: relative;
+  }
+  
+  .title::after {
+    content: "";
+    position: absolute;
+    height: 2px;
+    width: 0;
+    background: #af976d;
+    left: 0;
+    right: 0%;
+    top: 120%;
+    transform: translate(-50%, -50%);
+    transition: transform 500ms ease-in-out;
+    transform: scale(0);
+    transform-origin:center;
+  }
+  
+  .title:hover::after {
+    transform: scale(1);
+    transform-origin:initial;
+    width: 40%;
+    margin: auto;
+  
+  }
+  
+  
+  .sideTitle {
+    position: relative;
+  }
+  
+  .sideTitle::after {
+    content: "";
+    position: absolute;
+    height: 2px;
+    width: 0;
+    background: #af976d;
+    left: 0;
+  
+    top: 120%;
+    transform: translate(-50%, -50%);
+    transition: transform 500ms ease-in-out;
+    transform: scale(0);
+    transform-origin:center;
+  }
+  
+  .sideTitle:hover::after {
+    transform: scale(1);
+    transform-origin:initial;
+    width: 40%;
+    margin: auto;
+  
+  }
+  .onlineConsultancyTitle {
+    position: relative;
+  }
+  
+  .onlineConsultancyTitle::after {
+    content: "";
+    position: absolute;
+    height: 2px;
+    width: 0;
+    background: #af976d;
+    left: 0;
+    top: 100%;
+    transform: translate(-50%, -50%);
+    transition: transform 500ms ease-in-out;
+    transform: scale(0);
+    transform-origin:center;
+    transform: scale(0);
+  }
+  
+  .onlineConsultancyTitle:hover::after {
+    transform: scale(1);
+    transform-origin:initial;
+    width: 60%;
+    margin: auto;
+  
+  }
