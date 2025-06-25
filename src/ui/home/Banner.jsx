@@ -17,14 +17,14 @@ const Banner = () => {
       {/* left */}
       <div className="md:w-1/2">
         <h1 className="text-[28px] lg:text-[42px] font-semibold md:w-11/12 leading-tight dark:text-white">
-        Terra Whale Investment Group links startup founders to investors.
+        Terra Whales connects founders to investors, manufacturing, and retail success.
         </h1>
-        <h2 className="text-[22px] lg:text-[38px] font-semibold md:w-11/12 leading-tight text-[#4169E1]">
-          Empowering Entrepreneurs, Transforming Markets.
+        <h2 className="text-[22px] lg:text-[38px] font-semibold mt-4 md:w-11/12 leading-tight text-[#4169E1]">
+          Bridging Manufacturing, Capital & Retail - Accelerating Your Success.
         </h2>
 
         <p className="text-neutral-500 dark:text-neutral-300 mt-5 md:w-11/12">
-            Terra Whale Investment Group empowers startup entrepreneurs to pitch to investors for funding and partnerships.
+            Terra Whale Investment Group empowers businesses to reduce manufacturing costs, secure investment, and scale through extensive retail partnerships.
         </p>
 
         <div className="flex flex-col md:flex-row md:items-center md:gap-5 lg:gap-5 mt-5">
@@ -107,7 +107,7 @@ const Banner = () => {
           <div className="relative w-[50%] lg:w-[55%]">
             <img
               className=" w-full rounded-tl-full rounded-tr-[100%] rounded-br-[300%] rounded-bl-[100%] h-full"
-              src="/banner1.png"
+              src="/banner1.jpg"
               alt=""
             />
             <div className="p-4 md:p-8 bg-black dark:bg-white rounded-full absolute top-[-5px] md:top-[-20px] right-14 md:right-10 shadow-2xl">
@@ -132,7 +132,7 @@ const Banner = () => {
 </div>
             </h1>
             <p className="text-neutral-600 text-sm md:text-base">
-              Some big companies that we work with, and trust us very much
+              trusted companies rely on us for growth, manufacturing, and market expansion.
             </p>
             <div
               className="flex w-full h-1.5 bg-gray-200 rounded-full overflow-hidden dark:bg-gray-700 mt-3 md:mt-5"
@@ -147,7 +147,7 @@ const Banner = () => {
         </div>
         <div className="bg-[#1A1A1A] dark:bg-[#1A1A1A] h-[140px] overflow-hidden lg:h-[200px] rounded-3xl">
           <img
-            src="/banner2.png"
+            src="/banner2.jpg"
             className=" object-cover object-center mx-auto w-full bg-black dark:bg-white lg:h-[200px] h-[140px]  rounded-3xl"
           ></img>
         </div>

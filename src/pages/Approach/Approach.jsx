@@ -49,7 +49,10 @@ const Approach = () => {
               Our Approach
             </h1>
             <p className="text-neutral-600 text-lg dark:text-neutral-300 w-11/12">
-            At Terra Whales, we connect groundbreaking products with the resources they need to excel. Our comprehensive approach—investment expertise, manufacturing excellence, extensive distribution channels, and dynamic marketing strategies—ensures brands are not only funded but also thrive on a grand scale. By linking our partners with investors and aligning growth with influencers, celebrities, and key marketing networks, we transform promising ventures into market leaders. Our methodology guarantees products reach retail giants and expand rapidly with enhanced visibility and impact.
+            At Terra Whale Investment Group, we prioritize streamlining manufacturing to reduce costs while maintaining superior quality. Our comprehensive approach integrates efficient production solutions, strategic investment, broad retail distribution, and targeted marketing, creating a growth ecosystem that empowers brands to compete and lead at scale.
+            </p>
+            <p className="text-neutral-600 text-lg dark:text-neutral-300 w-11/12">
+            By connecting businesses with trusted manufacturers, visionary investors, and retail giants like Walmart and Target, we ensure products reach the market faster and perform stronger. We also leverage influencer partnerships and marketing networks to boost visibility, accelerating brand impact across multiple channels.
             </p>
           </div>
 
@@ -69,7 +72,10 @@ const Approach = () => {
               Secondary Investments
             </h1>
             <p className="text-neutral-600 text-lg dark:text-neutral-300 w-11/12">
-            In the sphere of secondary investments, Terra Whale Investment Group sets a new benchmark. Leveraging strategic alliances and a robust support network, we offer more than capital—providing profound industry insights, growth strategies, and essential connections for sustainable success. Our model elevates established businesses, supplying the tools and relationships needed to expand market share and profitability in competitive arenas.
+            In the realm of secondary investments, Terra Whale Investment Group raises the standard by offering more than capital. We provide deep industry insights, manufacturing optimization strategies, and valuable market connections to help established businesses improve profitability and expand their market share.
+            </p>
+            <p className="text-neutral-600 text-lg dark:text-neutral-300 w-11/12">
+            Our model equips mature companies with the tools and partnerships necessary to enhance operational efficiency, reduce costs, and capture new growth opportunities in competitive markets.
             </p>
           </div>
 
@@ -80,7 +86,10 @@ const Approach = () => {
               </h2>
 
               <p className="text-neutral-600 dark:text-neutral-300">
-              Success at Terra Whales transcends financial growth; it’s about cultivating brand visibility and influence. We amplify our partners’ reach by aligning products with celebrities, influencers, and impactful marketing initiatives. Through a powerful blend of strategic media campaigns and direct retail placement, we connect products with customers nationwide, transforming brands into household names positioned for sustained marketplace success
+              Success for our partners goes beyond financial gains; it’s about building lasting brand presence and consumer trust. We expand reach by integrating products into national retail chains and aligning brands with celebrities, influencers, and strategic marketing initiatives.
+              </p>
+              <p className="text-neutral-600 dark:text-neutral-300">
+              Through coordinated media campaigns and strong retail placement, we connect brands directly to customers nationwide—transforming products into household names and sustaining long-term market leadership.
               </p>
 
           

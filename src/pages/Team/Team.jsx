@@ -56,7 +56,10 @@ const Team = () => {
                     <div className='md:w-1/2 mb-4 md:mb-0' data-aos="fade-right">
                         <h1 className='text-5xl font-semibold mb-5 dark:text-white'>Meet Our Team</h1>
                         <p className='text-neutral-600 text-lg dark:text-neutral-300 w-11/12'>Our team combines deep expertise in manufacturing optimization, strategic investment, and market development to deliver comprehensive growth solutions. Partnering with Terra Whale means working with dedicated professionals committed to simplifying complex challenges, lowering costs, and accelerating your business success across production, funding, and retail channels.
-Together, we drive innovation, operational excellence, and sustainable expansion at every stage of your journey.</p>
+                            Together, we drive innovation, operational excellence, and sustainable expansion at every stage of your journey.
+                        </p>
+                        <p className='text-neutral-600 text-lg dark:text-neutral-300 w-11/12'>Together, we drive innovation, operational excellence, and sustainable expansion at every stage of your journey.
+                        </p>
                     </div>
 
                     <div className='md:w-1/2' data-aos="fade-left">

@@ -35,9 +35,20 @@ const BannerSection = () => {
         <div className='md:flex items-center gap-14 mt-5 mx-14'>
           <div className='md:w-1/2 mb-4 md:mb-0' data-aos="fade-right">
             <h1 className='text-5xl font-semibold mb-5 dark:text-white'>Who We Are</h1>
-            <p className='text-neutral-700 text-sm dark:text-neutral-300 '>We bridge the chasm between aspiring startup entrepreneurs and the capital they need to flourish. Serving as a vital liaison, we connect visionary founders with compatible investors, fostering partnerships that lead to lasting success. Through strategic introductions and bespoke guidance, we transform innovative startups into thriving enterprises by seamlessly uniting talent and resources, maximizing growth and impact along the way.</p>
-            <p className='text-neutral-700 text-sm my-3 dark:text-neutral-300 '>We bridge the chasm between aspiring startup entrepreneurs and the capital they need to flourish. Serving as a vital liaison, we connect visionary founders with compatible investors, fostering partnerships that lead to lasting success. Through strategic introductions and bespoke guidance, we transform innovative startups into thriving enterprises by seamlessly uniting talent and resources, maximizing growth and impact along the way.</p>
-            <p className='text-neutral-700 text-sm dark:text-neutral-300 '>We bridge the chasm between aspiring startup entrepreneurs and the capital they need to flourish. Serving as a vital liaison, we connect visionary founders with compatible investors, fostering partnerships that lead to lasting success. Through strategic introductions and bespoke guidance, we transform innovative startups into thriving enterprises by seamlessly uniting talent and resources, maximizing growth and impact along the way.</p>
+            <p class="text-lg text-gray-700 mb-6 md:w-11/12">
+                At Terra Whale Investment Group, we help businesses lower their manufacturing costs without compromising quality. Through our trusted global network of production partners, we ensure your product is manufactured efficiently, affordably, and to the highest standards.
+            </p>
+            <p class="text-lg text-gray-700 mb-6 md:w-11/12">
+                But we don’t stop at manufacturing. We also provide:
+            </p>
+            <ul class="list-disc list-inside text-lg text-gray-700 mb-6 md:w-11/12 space-y-2">
+                <li>Access to capital through our network of visionary investors</li>
+                <li>Placement in 50+ major retail stores including Walmart, Target, and Lowe’s</li>
+                <li>Marketing alignment with influencers and media to boost visibility</li>
+            </ul>
+            <p class="text-lg text-gray-700 mb-6 md:w-11/12">
+                Whether you're launching a new product line or scaling an established brand, Terra Whale delivers the infrastructure, connections, and support to grow confidently and competitively.
+            </p>
           </div>
 
           <div className='md:w-1/2' data-aos="fade-left">
