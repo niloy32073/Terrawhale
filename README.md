@@ -1,8 +1,12 @@
-# React + Vite
+**VPS Root Password:**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+H3uqA86z4y34EKdnNJ
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+**VPS User Id & Password:**
+
+terrawhales@162.254.32.60
+
+mysql_secure_installation
